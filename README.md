@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🎓  2nd-year Computer Science student currently studying CS at TUD 
+- 🎓  3rd-year Computer Science student currently studying CS at TUD 
 -🔗 Check out my projects
 
 ---
